@@ -1,0 +1,4 @@
+(executable
+ (public_name DenotationalSemantics)
+ (name main)
+ (libraries DenotationalSemantics))
